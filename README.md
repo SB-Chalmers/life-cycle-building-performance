@@ -1,1 +1,1 @@
-# life-cycle-building-performance
+# Life Cycle Building Performance
