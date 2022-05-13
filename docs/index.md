@@ -1,6 +1,6 @@
-<!--- Book an interview date here -
+[comment]: <> (Book an interview date here -
 <https://choodle.portal.chalmers.se/DigitalTools>  
---->
+)
 
 ## Hello there!  
 If you work with architecture in early design stages, and would like to explore ways of making more sustainable decisions, we would like to learn from your experiences!  
@@ -44,14 +44,13 @@ For the observation study, I would like to join you in design meetings, both int
 If this seems interesting to you, please let me know when you'd be free for an interview and/or observational study!
 [Click here to send an email!](mailto:sawen@chalmers.se)
 
-<!---
+[comment]: <> (
 ### Interested in the nuts and bolts?
 The goal with the digital tool is to stay open-source, and to encourage target users to actively test them as well.
 Please take a look at the project homepage for an overview and links to publications <https://snjsomnath.github.io/PhDThesisRepo/>.
 As you will see, it is very much a Work-in-Progress, which makes it the perfect time to get inputs from stakeholders like yourself.
---->
+)
 
- 
 Kind Regards,  
  
 Toivo Säwén
