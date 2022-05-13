@@ -57,11 +57,11 @@ Kind Regards,
  
 Toivo Säwén
 
-Doktorand | PhD Candidate                                            
+Doktorand \| PhD Candidate                                            
 
-Institutionen för Arkitektur och samhällsbyggnadsteknik | Department of Architecture and Civil Engineering  
+Institutionen för Arkitektur och samhällsbyggnadsteknik \| Department of Architecture and Civil Engineering  
 
-Avdelning Byggnadsteknologi | Division of Building Technology
+Avdelning Byggnadsteknologi \| Division of Building Technology
 
 +46(0)730392009 (mobile)  
 
