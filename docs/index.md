@@ -14,8 +14,11 @@ If you know someone who might be interested in this project, please share this w
 
 ### Project Title - Mainstreaming holistic life cycle performance optimisation in early design stages of buildings
 Members - Toivo Säwén, Alexander Hollberg, Angela Sasic Kalagasidis  
-Funding - E2B2 - Energimyndigheten
+
+Funding - E2B2 (Energimyndigheten)
+
 Project Duration - 2021 - 2026
+
 Target User – Architects, Engineers, Contractors, Developers, Policymakers 
 
 #### Some of the questions we aim to answer through our project are –  
