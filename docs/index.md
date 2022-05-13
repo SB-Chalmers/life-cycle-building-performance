@@ -40,11 +40,11 @@ sent separately.
 For the observation study, I would like to join you in design meetings, both internal with colleagues, and external with clients, to observe when and how conversations about sustainability are being held in early design stages. I would either be interested in following one project over an extended period, or join several meetings in different projects in a more condensed timeframe.
 
 
-# What's next!
+# What's next?
 If this seems interesting to you, please let me know when you'd be free for an interview and/or observational study!
 [Click here to send an email!](mailto:sawen@chalmers.se)
 
-<!--->
+<!---
 ### Interested in the nuts and bolts?
 The goal with the digital tool is to stay open-source, and to encourage target users to actively test them as well.
 Please take a look at the project homepage for an overview and links to publications <https://snjsomnath.github.io/PhDThesisRepo/>.
