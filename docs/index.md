@@ -8,6 +8,8 @@ My name is Toivo Säwén, I’m a PhD student at Chalmers University of Technolo
 
 In our research project, we are developing open-source digital tools that support architects and decision makers to make sustainable decisions in early design stages.
 
+To get detailed updates about the projects, please visit [this link](project-updates.md)
+
 If you know someone who might be interested in this project, please share this with them!  
  
 ![img](/header.png) 
@@ -21,12 +23,12 @@ Project Duration - 2021 - 2026
 
 Target User – Architects, Engineers, Contractors, Developers, Policymakers 
 
-#### Some of the questions we aim to answer through our project are –  
+#### Some of the questions we aim to answer through our project are:
 -	To what extent are decisions made in the early design stage informed by sustainability analysis in the current practice?
 -	What kind of tools and workflows are being employed in the current practice?
 -	Who are the stakeholders involved in decision making in early design stages?
  
-#### We are conducting a series of stakeholder interviews + observations to -
+#### We are conducting a series of stakeholder interviews + observations to:
 -	Map early stage design workflows
 -	Identify what drives sustainable decisions
 -	Identify relevant stakeholders
@@ -42,7 +44,7 @@ sent separately.
 For the observation study, I would like to join you in design meetings, both internal with colleagues, and external with clients, to observe when and how conversations about sustainability are being held in early design stages. I would either be interested in following one project over an extended period, or join several meetings in different projects in a more condensed timeframe.
 
 
-# What's next?
+## What's next?
 If this seems interesting to you, please let me know when you'd be free for an interview and/or observational study!
 [Click here to send an email!](mailto:sawen@chalmers.se)
 
@@ -54,8 +56,13 @@ If this seems interesting to you, please let me know when you'd be free for an i
 Kind Regards,  
  
 Toivo Säwén
+
 Doktorand | PhD Candidate                                            
+
 Institutionen för Arkitektur och samhällsbyggnadsteknik | Department of Architecture and Civil Engineering  
+
 Avdelning Byggnadsteknologi | Division of Building Technology
+
 +46(0)730392009 (mobile)  
+
 <sawen@chalmers.se>
