@@ -17,6 +17,8 @@ Keywords: early-stage design, sustainable architecture, climate-neutral building
 
 ![img](figures/lca-tool-review-paper.png)
 
+<font size="1">Last updated: 220513</font> 
+
 ### A Benchmarking Framework for Parametric Building Performance Simulation Tools
 Authors: Toivo Säwén, Emil Magnusson, Alexander Hollberg, Angela Sasic Kalagasidis
 
@@ -30,16 +32,31 @@ Keywords: early-stage design, building performance simulation, tool benchmarking
 
 ![img](figures/bps-tool-review-paper.png)
 
+<font size="1">Last updated: 220513</font> 
+
 ## Unpublished work
 
 ### Life Cycle Building Performance Grasshopper Tool
 More info coming soon...
 
-### Literature study
-More info coming soon...
+<font size="1">Last updated: 220513</font> 
+
+### Literature review
+
+Currently, 390 works covering Life Cycle Assessment, Building Performance Simulation, and Decision Making in Early Design Stages, have been collected.
+
+![img](figures/literature-review.png)
+
+*Figure 1: Clustering of keywords in abstracts and titles from 177 works*
+
+<font size="1">Last updated: 220513</font> 
 
 ### Reference group workshop #1
 More info coming soon...
 
+<font size="1">Last updated: 220513</font> 
+
 ### Reference group workshop #2
 More info coming soon...
+
+<font size="1">Last updated: 220513</font> 
