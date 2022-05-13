@@ -17,6 +17,8 @@ Keywords: early-stage design, sustainable architecture, climate-neutral building
 
 ![img](figures/lca-tool-review-paper.png)
 
+*Parametric LCA tool classification scheme*
+
 <font size="1">Last updated: 220513</font> 
 
 ### A Benchmarking Framework for Parametric Building Performance Simulation Tools
@@ -31,6 +33,8 @@ Abstract: Implementing Building Performance Simulation (BPS) in a parametric des
 Keywords: early-stage design, building performance simulation, tool benchmarking, parametric design, sustainable architecture
 
 ![img](figures/bps-tool-review-paper.png)
+
+*Example Grasshopper definition used for tool review*
 
 <font size="1">Last updated: 220513</font> 
 
@@ -47,7 +51,7 @@ Currently, 390 works covering Life Cycle Assessment, Building Performance Simula
 
 ![img](figures/literature-review.png)
 
-*Figure 1: Clustering of keywords in abstracts and titles from 177 works*
+*Clustering of keywords in abstracts and titles from 177 works*
 
 <font size="1">Last updated: 220513</font> 
 
