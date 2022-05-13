@@ -8,11 +8,11 @@ My name is Toivo Säwén, I’m a PhD student at Chalmers University of Technolo
 
 In our research project, we are developing open-source digital tools that support architects and decision makers to make sustainable decisions in early design stages.
 
-To get detailed updates about the projects, please visit [this link](project-updates.md)
+To get detailed updates about the project, please visit [this link](project-updates.md)
 
 If you know someone who might be interested in this project, please share this with them!  
  
-![img](/header.png) 
+![img](figures/header.png) 
 
 ### Project Title - Mainstreaming holistic life cycle performance optimisation in early design stages of buildings
 Members - Toivo Säwén, Alexander Hollberg, Angela Sasic Kalagasidis  
