@@ -12,7 +12,9 @@ To get detailed updates about the project, please visit [this link](project-upda
 
 If you know someone who might be interested in this project, please share this with them!  
  
-![img](figures/header.png) 
+![img](figures/header.png)
+
+*Overview of project themes*
 
 ### Project Title - Mainstreaming holistic life cycle performance optimisation in early design stages of buildings
 Members - Toivo Säwén, Alexander Hollberg, Angela Sasic Kalagasidis  
@@ -21,11 +23,11 @@ Funding - E2B2 (Energimyndigheten)
 
 Project Duration - 2021 - 2026
 
-Target User – Architects, Engineers, Contractors, Developers, Policymakers 
+Target Users – Architects, Engineers, Contractors, Developers, Policymakers, etc.
 
 #### Some of the questions we aim to answer through our project are:
 -	To what extent are decisions made in the early design stage informed by sustainability analysis in the current practice?
--	What kind of tools and workflows are being employed in the current practice?
+-	What kind of tools and workflows are being employed for design and analysis in early design stages in the current practice?
 -	Who are the stakeholders involved in decision making in early design stages?
  
 #### We are conducting a series of stakeholder interviews + observations to:
@@ -35,10 +37,7 @@ Target User – Architects, Engineers, Contractors, Developers, Policymakers
  
 #### Interview to the double
 For the interview study, the "interview to the double" technique (ITTD) is used. You will be asked to describe your next workday to the interviewer, pretending that they are a body double who will take over your tasks. Please describe your workday in as much detail as possible! Of course, you remain confidential as per a confidentiality agreement 
-sent separately.
-
-##### Duration   
--	30-45 minutes
+sent separately. The interview lasts 30-45 minutes.
 
 #### Observation
 For the observation study, I would like to join you in design meetings, both internal with colleagues, and external with clients, to observe when and how conversations about sustainability are being held in early design stages. I would either be interested in following one project over an extended period, or join several meetings in different projects in a more condensed timeframe.
