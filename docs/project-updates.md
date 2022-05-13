@@ -15,6 +15,8 @@ Abstract: Connecting Life Cycle Assessment (LCA) to parametric design has been s
 
 Keywords: early-stage design, sustainable architecture, climate-neutral buildings, life-cycle assessment, tool review
 
+![img](figures/lca-tool-review-paper.png)
+
 ### A Benchmarking Framework for Parametric Building Performance Simulation Tools
 Authors: Toivo Säwén, Emil Magnusson, Alexander Hollberg, Angela Sasic Kalagasidis
 
@@ -25,6 +27,8 @@ Link: TBA
 Abstract: Implementing Building Performance Simulation (BPS) in a parametric design framework is a prevalent way of facilitating environmental assessments in early design stages. However, no up-to-date overviews of potential approaches are available, and no benchmarking frameworks adapted for parametric BPS tools are present. In this study, such a framework was developed and applied to investigate eleven available BPS tools for the parametric design framework Grasshopper®. The main defining feature of the tools identified was the level of BPS expertise integrated in the tools, and the allocation of responsibility for data entry and interpretation. A contrast was found between streamlined tools, and tools which provide more versatility. The overview of approaches can be used to guide the future development of parametric environmental analysis frameworks.
 
 Keywords: early-stage design, building performance simulation, tool benchmarking, parametric design, sustainable architecture
+
+![img](figures/bps-tool-review-paper.png)
 
 ## Unpublished work
 
